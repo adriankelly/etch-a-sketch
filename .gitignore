@@ -1,2 +1,4 @@
 .gitignore
 bower_components
+pre-production
+node_modules
